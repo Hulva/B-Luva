@@ -9,12 +9,12 @@
       "urls": [
         "https://hulva.github.io/B-Luva/favicon.ico",
         "https://hulva.github.io/B-Luva/index.html",
-        "https://hulva.github.io/B-Luva/0.75f0b2caa4e15cb0d3ec.chunk.js",
-        "https://hulva.github.io/B-Luva/1.918ee653f20e6c86b7ae.chunk.js",
-        "https://hulva.github.io/B-Luva/inline.17d7a5831d7789015596.bundle.js",
-        "https://hulva.github.io/B-Luva/main.23ee2d59694d891240d0.bundle.js",
+        "https://hulva.github.io/B-Luva/0.cf5fd2e1a79eda8dff6a.chunk.js",
+        "https://hulva.github.io/B-Luva/1.136a67c001a2988a20ad.chunk.js",
+        "https://hulva.github.io/B-Luva/inline.ab848127fdac5eb0c262.bundle.js",
+        "https://hulva.github.io/B-Luva/main.b0cbbd217ad411eec166.bundle.js",
         "https://hulva.github.io/B-Luva/polyfills.f974cc80e1ef547b2580.bundle.js",
-        "https://hulva.github.io/B-Luva/styles.3bbd9ead17958921f321.bundle.css"
+        "https://hulva.github.io/B-Luva/styles.40e84f19d53a06dec04d.bundle.css"
       ],
       "patterns": []
     },
@@ -32,16 +32,16 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://hulva.github.io/B-Luva/0.75f0b2caa4e15cb0d3ec.chunk.js": "3d4dbc2381a8bc7d3267b12f0e7182d1331bf37b",
+    "https://hulva.github.io/B-Luva/0.cf5fd2e1a79eda8dff6a.chunk.js": "0da7e3940acc08694e58f88d73bdd49b2bff2aa1",
     "https://hulva.github.io/B-Luva/assets/beautifuldestinations_27581157_826251440891542_7986017135975464960_n.jpg": "c730ff9874fa05ee8fa12ab0cf3f8360c3cbe26d",
-    "https://hulva.github.io/B-Luva/1.918ee653f20e6c86b7ae.chunk.js": "767aca711ac5dcf412a39aa2bab337f1631c6378",
+    "https://hulva.github.io/B-Luva/1.136a67c001a2988a20ad.chunk.js": "aa6ade0672a321efeef1258c2c2c38f7dbd3cd3b",
     "https://hulva.github.io/B-Luva/assets/code.jpg": "b755e270aec00158352511c1ff838592371c2f5e",
-    "https://hulva.github.io/B-Luva/inline.17d7a5831d7789015596.bundle.js": "76d391224a3a05a09e930cb03853a5c7ceb92c07",
+    "https://hulva.github.io/B-Luva/inline.ab848127fdac5eb0c262.bundle.js": "36362dfc416dddb97897000c5abbe350f03a3a68",
     "https://hulva.github.io/B-Luva/assets/life.jpg": "e88832107dff7b0f869197e55181b634c1ff0a0e",
-    "https://hulva.github.io/B-Luva/main.23ee2d59694d891240d0.bundle.js": "cfaa2c5f098c3275dd3185f3fc77ac6afc65636c",
+    "https://hulva.github.io/B-Luva/main.b0cbbd217ad411eec166.bundle.js": "e6d7d4410519a67c2a32c91f208482a4370dbe52",
     "https://hulva.github.io/B-Luva/polyfills.f974cc80e1ef547b2580.bundle.js": "fd32733ffb3d7a01d32f3a6d5199e828f5ac104c",
-    "https://hulva.github.io/B-Luva/styles.3bbd9ead17958921f321.bundle.css": "5a78bb752d72e5f34c39d2f75d9d196a69376d94",
+    "https://hulva.github.io/B-Luva/styles.40e84f19d53a06dec04d.bundle.css": "b07c1221a9ff3e5885be7b52042437fbd381368b",
     "https://hulva.github.io/B-Luva/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://hulva.github.io/B-Luva/index.html": "2f0af1fd98c55355a5f36fe0e19c542c044bfde8"
+    "https://hulva.github.io/B-Luva/index.html": "bbb839eb6590c3964be63ac5d5756b8039deac08"
   }
 }
