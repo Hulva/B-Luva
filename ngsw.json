@@ -1,0 +1,40 @@
+{
+  "configVersion": 1,
+  "index": "https://hulva.github.io/B-Luva/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://hulva.github.io/B-Luva/favicon.ico",
+        "https://hulva.github.io/B-Luva/index.html",
+        "https://hulva.github.io/B-Luva/0.8a452f3364cb7af96a31.chunk.js",
+        "https://hulva.github.io/B-Luva/1.973d0ffe36423c8f7c21.chunk.js",
+        "https://hulva.github.io/B-Luva/inline.45d52becf3420f961ac3.bundle.js",
+        "https://hulva.github.io/B-Luva/main.fe352410cb16694be190.bundle.js",
+        "https://hulva.github.io/B-Luva/polyfills.f974cc80e1ef547b2580.bundle.js",
+        "https://hulva.github.io/B-Luva/styles.ef787ee08c4e0796df4d.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://hulva.github.io/B-Luva/0.8a452f3364cb7af96a31.chunk.js": "37e04652694178a19b15af6e190fe42b6e55610e",
+    "https://hulva.github.io/B-Luva/1.973d0ffe36423c8f7c21.chunk.js": "40d6cff66e3ea87a8b5cf8a1bd3e0fa15679c3cf",
+    "https://hulva.github.io/B-Luva/inline.45d52becf3420f961ac3.bundle.js": "16bbcfb6d40d76e59b7549cd5e2104db8333446f",
+    "https://hulva.github.io/B-Luva/main.fe352410cb16694be190.bundle.js": "f4dfad944ad033387fc3498bbeca3368bdff842e",
+    "https://hulva.github.io/B-Luva/polyfills.f974cc80e1ef547b2580.bundle.js": "fd32733ffb3d7a01d32f3a6d5199e828f5ac104c",
+    "https://hulva.github.io/B-Luva/styles.ef787ee08c4e0796df4d.bundle.css": "754d872e0dcdd72b04e9758522248bf82e8dd2bd",
+    "https://hulva.github.io/B-Luva/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://hulva.github.io/B-Luva/index.html": "60abc56bf7a1145913cd7b61d8ccee4332a988f9"
+  }
+}
