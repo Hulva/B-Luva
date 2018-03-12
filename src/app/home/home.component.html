@@ -1,0 +1,14 @@
+<div [hidden]="!appService.isHome" class="home-wrapper">
+  <div class="left" [ngStyle]="leftPartStyl">
+    <img src="assets/life.jpg" style="height: 100%; width: 100%;">
+    <div [ngStyle]="doorWrapperStyl">
+      <h2><a routerLink="life">Life</a></h2>
+    </div>
+  </div>
+  <div class="right" [ngStyle]="rightPartStyl">
+    <img src="assets/code.jpg" style="height: 100%; width: 100%;">
+    <div [ngStyle]="doorWrapperStyl">
+      <h2><a routerLink="code">Coding</a></h2>
+    </div>
+  </div>
+</div>
