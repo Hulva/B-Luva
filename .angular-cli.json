@@ -21,10 +21,7 @@
       "styles": [
         "styles.css"
       ],
-      "scripts": [
-        "./assets/third-party/hammer.js",
-        "./assets/third-party/muuri.js"
-      ],
+      "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",

@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
-declare const Murri;
+import * as Muuri from 'Muuri';
 
 @Component({
   selector: 'bluva-life-index',
@@ -8,16 +7,16 @@ declare const Murri;
   styleUrls: ['./life-index.component.css']
 })
 export class LifeIndexComponent implements OnInit {
-
+  grid: any;
   constructor() { }
 
   ngOnInit() {
-    window.onload = () => {
-      var grid = new Murri('.grid', {
-        dragEnabled: true,
-        dragContainer: document.body
-      });
-    };
+    this.grid = new Muuri('.grid', {
+      dragEnabled: true,
+      dragContainer: document.body,
+      // dragAxis: 'x',
+      // dragAxis: 'y'
+    });
   }
 
 }
